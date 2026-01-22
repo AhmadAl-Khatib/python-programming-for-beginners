@@ -1,2 +1,4 @@
 # python-programming-for-beginners
 Python Programming for Beginners interactive file containing all the code used throughout the book. Use it as a convenient reference whenever you want to review an example, run it again, and experiment with different ways to write Python code.
+This file—provided for your use—was created using the interactive JupyterLab environment. JupyterLab is an application designed for writing and running code. One of its most useful features is the ability to divide code into separate cells and execute each cell independently, without having to run the entire program at once.
+The book’s code has been carefully organized within this interactive file so that you can quickly navigate to any example by clicking its title. This makes it easy to run a specific code snippet—and only that snippet—and immediately view its output.
